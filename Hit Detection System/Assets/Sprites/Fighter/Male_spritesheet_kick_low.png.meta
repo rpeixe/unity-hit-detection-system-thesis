@@ -1,0 +1,1166 @@
+fileFormatVersion: 2
+guid: 8fbf6052459c40248a1884c60317d090
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 512
+        width: 44
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29cfee834b1245428cfcb32459abddf
+      internalID: -1246965548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 512
+        width: 45
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d26dba6d97be4eb0a54a26384be5e
+      internalID: -293605546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 512
+        width: 44
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e441e71af85244a87bd2ebeb8cf21e
+      internalID: 429518900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 512
+        width: 41
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39765e8520365ed4cbebc7a76d48094d
+      internalID: -1472111169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 512
+        width: 41
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89e1c0d14fb6934781137b717ea2405
+      internalID: -1157682195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 512
+        width: 40
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f6f06aef3ff274aad0dd9a88646b73
+      internalID: -1641542744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_7
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 512
+        width: 39
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe3c0592f442c4dadb867f7e142f52
+      internalID: -758085599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 512
+        width: 39
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532abe9051ba7b1458079cece0f16295
+      internalID: 1277118611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_9
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 512
+        width: 43
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8c77957a0cbf540aa8b20748fc4f95
+      internalID: 1988565405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 384
+        width: 49
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d360c7fa190a0214f9b0e64aa33cc936
+      internalID: 471565617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 384
+        width: 50
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7444a0fd1acbe1428eac7876094e308
+      internalID: 1468792670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 384
+        width: 47
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860638132f864a441b7fc8a5cfdc57b6
+      internalID: -346749541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6167629717bc88143a893f84c903f793
+      internalID: -2026644196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_14
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 384
+        width: 41
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11551140101af048b3a4f01a4cf0085
+      internalID: 454357668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_15
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 384
+        width: 38
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3da372e599a794e98b2f0dc2c0c0d0
+      internalID: 626626519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 384
+        width: 53
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23055b8add284c34bb7ecb4f11ff1888
+      internalID: 1713364225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_17
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 384
+        width: 60
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5ce38be400b4242acb313b74131eff
+      internalID: 607688395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_18
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 384
+        width: 62
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160b3716e13ce14418cae038ec78aae8
+      internalID: -918103792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_19
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 384
+        width: 62
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f7e2b688d1bf478e61c307d9fbf5d
+      internalID: -332968522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 256
+        width: 59
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0e296f779c73a4eb72bdc87cbb5836
+      internalID: -2083994003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 256
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e8e5c90e58b1e40877ebdf3578b136
+      internalID: -1682443499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 256
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43e8b463bf6eb489fe2b716115588a
+      internalID: 1826153053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 256
+        width: 41
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be44160a79bb7cb4183a8e796b9a1325
+      internalID: 1772788595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_24
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 256
+        width: 37
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ca8a1688b2aa34295575f621796d48
+      internalID: -934920958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_25
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 256
+        width: 36
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11988c8ad2420cc45b00861975000b53
+      internalID: 496907158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_26
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 256
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b09bffee0787468eda59a3d78430a
+      internalID: -571966819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_27
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 256
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e54527165f594b408a232e496228422
+      internalID: -2072898649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_28
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 256
+        width: 32
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce4cd4c968d4d2469f3b585b22d9efd
+      internalID: 809616336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_29
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 256
+        width: 29
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1a2b8468bf99045914285aaf1e3295
+      internalID: 601945045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 128
+        width: 28
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0820ff1f505cc634f86fbc2295af4e32
+      internalID: 596131375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 128
+        width: 28
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d755c5641e8d207429dc0f61e7dc1ab6
+      internalID: -1580069188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 128
+        width: 32
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48de9608187c5024fb7b359ad15dd2ea
+      internalID: -2140979669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 128
+        width: 35
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb88e680f4700424ebf34f0417e727bb
+      internalID: -1577073349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_34
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 128
+        width: 38
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedd85e8eb0907d459e415b42caa88a7
+      internalID: 1927933351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_35
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 128
+        width: 41
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a06bf9e74359db428c17a5c31e98c80
+      internalID: 988848140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_36
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 128
+        width: 41
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea527e10136444993035ee6c1803d4
+      internalID: 981947519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_37
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 128
+        width: 41
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4749e1d4c79b994c9297e1542a4f54b
+      internalID: 101767029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_38
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 128
+        width: 39
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d82fcbf46f062140922748a68478cf4
+      internalID: -773384408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_39
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 128
+        width: 39
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bd64437b8619c4db3df643c2565824
+      internalID: 835196458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 40
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1633ffd70beca2419663bf8affa80c1
+      internalID: 1000135958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 41
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2a722aa3a65d46989d43fabfac2bb
+      internalID: -779438135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 41
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c68db0aeadc0bd4f8e543929fe4f5b4
+      internalID: 1410497375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_43
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 41
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add5634f26e4ff640b0aed13883b173a
+      internalID: -1613134456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_44
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 42
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346b7612cfc07b14493d43f81c7ca053
+      internalID: 1897478798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_spritesheet_kick_low_45
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9736adf415bbae41bdabe599b16e5c1
+      internalID: -1803527258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb0d54d56d7a1da4fa1641f6485f559d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Male_spritesheet_kick_low_0: -1165588856
+      Male_spritesheet_kick_low_1: -1246965548
+      Male_spritesheet_kick_low_10: 471565617
+      Male_spritesheet_kick_low_11: 1468792670
+      Male_spritesheet_kick_low_12: -346749541
+      Male_spritesheet_kick_low_13: -2026644196
+      Male_spritesheet_kick_low_14: 454357668
+      Male_spritesheet_kick_low_15: 626626519
+      Male_spritesheet_kick_low_16: 1713364225
+      Male_spritesheet_kick_low_17: 607688395
+      Male_spritesheet_kick_low_18: -918103792
+      Male_spritesheet_kick_low_19: -332968522
+      Male_spritesheet_kick_low_2: -293605546
+      Male_spritesheet_kick_low_20: -2083994003
+      Male_spritesheet_kick_low_21: -1682443499
+      Male_spritesheet_kick_low_22: 1826153053
+      Male_spritesheet_kick_low_23: 1772788595
+      Male_spritesheet_kick_low_24: -934920958
+      Male_spritesheet_kick_low_25: 496907158
+      Male_spritesheet_kick_low_26: -571966819
+      Male_spritesheet_kick_low_27: -2072898649
+      Male_spritesheet_kick_low_28: 809616336
+      Male_spritesheet_kick_low_29: 601945045
+      Male_spritesheet_kick_low_3: 429518900
+      Male_spritesheet_kick_low_30: 596131375
+      Male_spritesheet_kick_low_31: -1580069188
+      Male_spritesheet_kick_low_32: -2140979669
+      Male_spritesheet_kick_low_33: -1577073349
+      Male_spritesheet_kick_low_34: 1927933351
+      Male_spritesheet_kick_low_35: 988848140
+      Male_spritesheet_kick_low_36: 981947519
+      Male_spritesheet_kick_low_37: 101767029
+      Male_spritesheet_kick_low_38: -773384408
+      Male_spritesheet_kick_low_39: 835196458
+      Male_spritesheet_kick_low_4: -1472111169
+      Male_spritesheet_kick_low_40: 1000135958
+      Male_spritesheet_kick_low_41: -779438135
+      Male_spritesheet_kick_low_42: 1410497375
+      Male_spritesheet_kick_low_43: -1613134456
+      Male_spritesheet_kick_low_44: 1897478798
+      Male_spritesheet_kick_low_45: -1803527258
+      Male_spritesheet_kick_low_5: -1157682195
+      Male_spritesheet_kick_low_6: -1641542744
+      Male_spritesheet_kick_low_7: -758085599
+      Male_spritesheet_kick_low_8: 1277118611
+      Male_spritesheet_kick_low_9: 1988565405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
